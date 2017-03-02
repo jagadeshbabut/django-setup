@@ -1,6 +1,6 @@
 ## Setup Django, Nginx and uWSGI on a Ubuntu server - Two User setup
 
-[![sayThanks](https://img.shields.io/badge/SayThanks.io-☼-1EAEDB.svg)](https://saythanks.io/to/kennethreitz)
+[![sayThanks](https://img.shields.io/badge/Say%20Thanks!-🦉-1EAEDB.svg)](https://saythanks.io/to/jagadeshbabu)
 
 ### Login to UBUNTU user
 
