@@ -19,8 +19,25 @@ exit
 #### REQUIRED PACKAGES/DEPENDENCIES
 ```
 sudo apt-get update && sudo apt-get -y upgrade
-sudo apt-get -y install python-dev python-pip sqlite3 libsqlite3-dev nginx vim uwsgi uwsgi-plugin-python
+sudo apt-get -y install python-dev python-pip nginx vim uwsgi uwsgi-plugin-python
 sudo pip install virtualenvwrapper
+```
+
+#### DATABASE
+
+##### SQLITE
+```
+sudo apt-get -y install sqlite3 libsqlite3-dev
+```
+
+##### MYSQL
+```
+sudo apt-get -y install sqlite3 libsqlite3-dev
+```
+
+##### POSTGRESQL
+```
+sudo apt-get -y install sqlite3 libsqlite3-dev
 ```
 
 ### SETUP
