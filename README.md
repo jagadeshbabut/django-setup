@@ -32,7 +32,7 @@ sudo apt-get -y install sqlite3 libsqlite3-dev
 
 ##### MYSQL
 ```
-wget http://dev.mysql.com/get/mysql-apt-config_0.8.3-1_all.deb
+wget http://dev.mysql.com/get/mysql-apt-config_0.8.3-1_all.deb (Choose the latest one from https://dev.mysql.com/downloads/repo/apt/)
 sudo dpkg -i mysql-apt-config_0.8.3-1_all.deb
 sudo apt-get update
 sudo apt-get install mysql-server
